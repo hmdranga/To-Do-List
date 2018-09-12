@@ -1,0 +1,27 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#close{
+        cursor: default;
+        float: right;
+        margin-right: 10%;
+}
+
+#listItem{
+        cursor: pointer;
+}
+
+table{
+        border-color:dimgrey;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.listItem {
+    cursor: pointer;
+}
+
+.cross {
+    text-decoration: line-through;
+}
